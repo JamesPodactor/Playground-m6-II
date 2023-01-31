@@ -35,7 +35,7 @@ document.getElementById("desencriptar").addEventListener("click", function () { 
 
 
 
-//ENIGMA EJERCICIO II: no consigo ver cómo usar el Indexof().
+//ENIGMA EJERCICIO II:
 
 // var plainAlphabet = "abcdefghijklmnopqrstuvwxyz:()!¡,'";
 
